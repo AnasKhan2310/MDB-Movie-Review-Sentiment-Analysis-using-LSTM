@@ -3,9 +3,6 @@ This project performs **Sentiment Analysis** on IMDB movie reviews using **LSTM 
 We compare the performance of two embedding sizes: **32 vs 64** to analyze which provides better accuracy.
 
 ---
-
----
-
 ## 🧠 Model Overview
 The project includes:
 1. **Text Preprocessing:** Tokenization and padding of sequences  
@@ -16,18 +13,18 @@ The project includes:
 
 ## 🏗️ Architecture
 ```python
-Embedding(input_dim=10000, output_dim=32 or 64, input_length=200)
-LSTM(64)
-Dropout(0.5)
-Dense(1, activation='sigmoid')
-⚙️ Technologies Used
-Python
+#Embedding(input_dim=10000, output_dim=32 or 64, input_length=200)
+#LSTM(64)
+#Dropout(0.5)
+#Dense(1, activation='sigmoid')
+#⚙️ Technologies Used
+#Python
 
-TensorFlow / Keras
+#TensorFlow / Keras
 
-Pandas, NumPy
+#Pandas, NumPy
 
-Matplotlib
+#Matplotlib
 
 Scikit-learn
 📊 Results
