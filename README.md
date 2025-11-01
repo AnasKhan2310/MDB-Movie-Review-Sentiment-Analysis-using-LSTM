@@ -4,11 +4,6 @@ We compare the performance of two embedding sizes: **32 vs 64** to analyze which
 
 ---
 
-## 📂 Dataset
-**Source:** [IMDB Dataset of 50K Movie Reviews (Kaggle)](https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews)  
-- 50,000 movie reviews labeled as **positive** or **negative**  
-- Perfect for binary sentiment classification tasks
-
 ---
 
 ## 🧠 Model Overview
