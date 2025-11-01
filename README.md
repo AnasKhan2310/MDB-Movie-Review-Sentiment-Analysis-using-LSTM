@@ -27,18 +27,5 @@ Each review is labeled with a sentiment (positive/negative), making it ideal for
 - `review` → Movie review text  
 - `sentiment` → Target label (`positive` / `negative`)
 
----
-
-## ⚙️ Installation & Setup
-
-### 1️⃣ Clone this repository
-```bash
-git clone https://github.com/yourusername/imdb-sentiment-lstm.git
-cd imdb-sentiment-lstm
 
 
-Text preprocessing is crucial for deep learning NLP tasks
-
-A larger embedding size can improve performance, but increases training time
-
-LSTM networks are effective for sequential sentiment classification
