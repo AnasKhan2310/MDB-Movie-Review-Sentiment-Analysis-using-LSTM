@@ -10,7 +10,7 @@ We compare two different **embedding sizes (32 vs 64)** to see which provides be
 This project aims to build a deep learning model to classify movie reviews as **Positive 😊** or **Negative 😞** based on their textual content.
 
 The dataset used is the **IMDB 50K Movie Reviews Dataset** from Kaggle.  
-Each review is labeled with a sentiment (positive/negative), making it ideal for binary sentiment classification tasks.
+Each review is labeled with a sentiment (positive/negative),making it ideal for binary sentiment classification tasks.
 
 ---
 
